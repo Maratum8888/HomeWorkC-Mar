@@ -1,0 +1,15 @@
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\obj\Debug\net6.0\HomeWorkMarat8.csproj.AssemblyReference.cache
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\obj\Debug\net6.0\HomeWorkMarat8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\obj\Debug\net6.0\HomeWorkMarat8.AssemblyInfoInputs.cache
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\obj\Debug\net6.0\HomeWorkMarat8.AssemblyInfo.cs
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\obj\Debug\net6.0\HomeWorkMarat8.csproj.CoreCompileInputs.cache
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\bin\Debug\net6.0\HomeWorkMarat8.exe
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\bin\Debug\net6.0\HomeWorkMarat8.deps.json
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\bin\Debug\net6.0\HomeWorkMarat8.runtimeconfig.json
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\bin\Debug\net6.0\HomeWorkMarat8.dll
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\bin\Debug\net6.0\HomeWorkMarat8.pdb
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\obj\Debug\net6.0\HomeWorkMarat8.dll
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\obj\Debug\net6.0\refint\HomeWorkMarat8.dll
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\obj\Debug\net6.0\HomeWorkMarat8.pdb
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\obj\Debug\net6.0\HomeWorkMarat8.genruntimeconfig.cache
+C:\Users\Maraum\Desktop\учеба марат\Конспект С#\HomeWork_C#\C#\HomeWorkMarat8\obj\Debug\net6.0\ref\HomeWorkMarat8.dll
